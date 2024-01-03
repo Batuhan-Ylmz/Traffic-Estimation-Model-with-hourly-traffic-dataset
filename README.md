@@ -3,7 +3,7 @@ A forecasting model is proposed based on the dataset of hourly traffic density i
 
 # EDA and Hypothesis
   - Exploratory_Data_Analysis_with_Hypothesis_Testing_and_Data_Preprocessing.ipynb includes information about EDA and hypothesis tests. Also, preprocessing is performed within the file.
-  - Winsorization method is ready to be applied on the data. However, due to the nature of a forecasting-oriented dataset, dataset is left as string. Optionally, for a better model performance, winsorization can be applied to outliers and potentially better model(s) can be trained.
+  - Winsorization method is ready to be applied on the data. However, due to the nature of a forecasting-oriented dataset, outliers are left as they are. Optionally, for a better model performance, winsorization can be applied to outliers and a model that could potentially lead to a better result can be trained.
   - - Insights and inferences obtained during EDA are indicated within the notebook file and briefly overviewed in the presentation.
 
 # Models
