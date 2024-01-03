@@ -1,5 +1,5 @@
 # Traffic-Estimation-Model-with-hourly-traffic-dataset
-A forecasting model based on the dataset of hourly traffic density in Istanbul City for a single month. Dataset covers the dates between 2020-01-01 and 2020-02-02 
+A forecasting model based on the dataset of hourly traffic density in Istanbul City for a single month. Dataset covers the dates between 2020-01-01 and 2020-02-01.
 
 EDA - Hypothesis Tests are held in 2 seperate files.
   - Exploratory_Data_Analysis_with_Hypothesis_Testing_and_Data_Preprocessing.ipynb includes information about EDA and hypothesis tests. Also, preprocessing is performed within the file.
