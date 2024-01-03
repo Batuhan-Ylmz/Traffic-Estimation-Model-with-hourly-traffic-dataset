@@ -13,9 +13,9 @@ EDA - Hypothesis Tests are held in 2 seperate files.
 Dataset is the hourly traffic dataset that is taken from the official webpage of IBB (Istanbul Municipality). 
 It can be accessed from the link: https://data.ibb.gov.tr/en/dataset/hourly-traffic-density-data-set
 
-  Raw data consists of the following features:
-    -  Date : Given in the form of '2020-01-01 00:00:00'
-    -  Latitude and Longitude : gives the related geographical location
-    -  Geohash : Hashed value of geographical location ( optionally, it might be hard to one-hot encode all the geographical locations. So, sticking with the coordinates itself might be a better choice. )
-    -  Min, max and avg speed : Related speed that corresponds to the given particular coordinates.
-    -  Number of Vehicles (Target) : Total number of vehicles fall within the limit of given coordinates. 
+  Raw data consists of the following features.
+  - Date : Given in the form of '2020-01-01 00:00:00'
+  - Latitude and Longitude : gives the related geographical location
+  - Geohash : Hashed value of geographical location ( optionally, it might be hard to one-hot encode all the geographical locations. So, sticking with the coordinates itself might be a better choice. )
+  - Min, max and avg speed : Related speed that corresponds to the given particular coordinates.
+  - Number of Vehicles (Target) : Total number of vehicles fall within the limit of given coordinates. 
